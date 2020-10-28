@@ -10,6 +10,7 @@ public class opdracht46 extends Applet {
     }
 
     public void paint(Graphics g) {
+        //basis
         g.drawRect(30,30,100,200);
         g.fillRect(30,30,100,200);
         //rood
