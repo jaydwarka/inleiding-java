@@ -3,9 +3,10 @@ package h04;
 import java.applet.Applet;
 import java.awt.*;
 
-public class Figuren extends Applet {
+public class Praktijkopdracht4 extends Applet {
 
     public void init() {
+
     }
 
     public void paint(Graphics g) {
@@ -55,4 +56,4 @@ public class Figuren extends Applet {
 
 
     }
- }
+}
