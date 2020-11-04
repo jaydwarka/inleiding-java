@@ -2,38 +2,34 @@ package h08;
 
 import java.applet.Applet;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class Opdracht81 extends Applet {
-
     Button knop;
-    TextField tekstveld;
+    Button resetknop;
+    TextField tekstvak;
+    Label sticker;
 
 
     public void init() {
-        //toevoegen
-        knop = new Button("klik hier");
-                add(knop);
-        tekstveld = new TextField("type hier",10);
-        add(tekstveld);
+        //resetknop
+        resetknop = new Button("reset");
+        add(resetknop);
+
+        //voegknop
+        knop = new Button("voeg toe");
+        add(knop);
+
+        //tekstvak
+        tekstvak = new TextField("",30);
+        add(tekstvak);
 
 
-                //aansluitend knopje op actionlistenere
-                knop.addActionListener(new TextToTerminalListener());
 
     }
-
 
     public void paint(Graphics g) {
 
-    }
-    class TextToTerminalListener implements ActionListener {
 
-
-        public void actionPerformed(ActionEvent e) {
-            System.out.println("je hebt geklikt");
-
-        }
     }
 }
+
