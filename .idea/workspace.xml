@@ -19,15 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6eba929-e5e8-4782-bd24-e2e6cb1cd411" name="Default Changelist" comment="changed some things in h10">
-      <change afterPath="$PROJECT_DIR$/src/h10/Opdracht103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Opdracht104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht114.java" afterDir="false" />
+    <list default="true" id="f6eba929-e5e8-4782-bd24-e2e6cb1cd411" name="Default Changelist" comment="added h11">
+      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/Opdracht121.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h10/Opdracht102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h10/Opdracht102.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,30 +56,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.Opdracht114">
-    <configuration name="Opdracht102" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.Opdracht102" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Opdracht111" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.Opdracht111" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.Opdracht117">
     <configuration name="Opdracht112" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h11.Opdracht112" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Opdracht113" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.Opdracht113" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,24 +71,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Opdracht115" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht115" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht116" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht116" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht117" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht117" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Opdracht117" />
+        <item itemvalue="Applet.Opdracht116" />
+        <item itemvalue="Applet.Opdracht115" />
         <item itemvalue="Applet.Opdracht114" />
         <item itemvalue="Applet.Opdracht112" />
-        <item itemvalue="Applet.Opdracht113" />
-        <item itemvalue="Applet.Opdracht111" />
-        <item itemvalue="Applet.Opdracht102" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +145,8 @@
       <workItem from="1604649957609" duration="6006000" />
       <workItem from="1604934040143" duration="831000" />
       <workItem from="1605081190266" duration="13000" />
-      <workItem from="1605084089286" duration="7015000" />
+      <workItem from="1605084089286" duration="7071000" />
+      <workItem from="1605685573911" duration="2297000" />
     </task>
     <task id="LOCAL-00001" summary="change text from &quot;Hallo klas 8A&quot; to &quot;Somebody once told me the world is gonna roll me&#10;                                     I ain't the sharpest tool in the shed&#10;                                     She was looking kind of dumb with her finger and her thumb&#10;                                     In the shape of an &quot;L&quot; on her forehead&quot;.">
       <created>1600081222010</created>
@@ -246,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604934742547</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added h11">
+      <created>1605093095755</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605093095755</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +284,8 @@
     <MESSAGE value="changed some things in ho8" />
     <MESSAGE value="added some things in h10" />
     <MESSAGE value="changed some things in h10" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed some things in h10" />
+    <MESSAGE value="added h11" />
+    <option name="LAST_COMMIT_MESSAGE" value="added h11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1601904188901">
@@ -292,22 +300,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1600859678088" />
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1605091300193">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1605686121127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605091300193" />
-    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1605091300193">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605686121127" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1605686121127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605091300193" />
-    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1605091300193">
+    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605686121127" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1605686121127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605091300193" />
-    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1605091300193">
+    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605686121127" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1605686121127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605091300193" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605686121127" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1604567875768">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -332,9 +340,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600349263892" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604934744679">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605093100352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604934744679" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605093100352" />
   </component>
 </project>
