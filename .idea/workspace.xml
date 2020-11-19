@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6eba929-e5e8-4782-bd24-e2e6cb1cd411" name="Default Changelist" comment="added h11">
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Opdracht117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h12/Opdracht121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/Opdracht122.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h12/Opdracht121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/Opdracht121.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -56,14 +55,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.Opdracht117">
-    <configuration name="Opdracht112" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.Opdracht112" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.Opdracht121">
     <configuration name="Opdracht114" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h11.Opdracht114" />
       <module name="inleiding-java" />
@@ -92,26 +84,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Opdracht121" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.Opdracht121" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Opdracht121" />
         <item itemvalue="Applet.Opdracht117" />
         <item itemvalue="Applet.Opdracht116" />
         <item itemvalue="Applet.Opdracht115" />
         <item itemvalue="Applet.Opdracht114" />
-        <item itemvalue="Applet.Opdracht112" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +144,7 @@
       <workItem from="1605081190266" duration="13000" />
       <workItem from="1605084089286" duration="7071000" />
       <workItem from="1605685573911" duration="2297000" />
+      <workItem from="1605785788476" duration="6730000" />
     </task>
     <task id="LOCAL-00001" summary="change text from &quot;Hallo klas 8A&quot; to &quot;Somebody once told me the world is gonna roll me&#10;                                     I ain't the sharpest tool in the shed&#10;                                     She was looking kind of dumb with her finger and her thumb&#10;                                     In the shape of an &quot;L&quot; on her forehead&quot;.">
       <created>1600081222010</created>
@@ -300,22 +298,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1600859678088" />
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1605686121127">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1605792172579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605686121127" />
-    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1605686121127">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605792172579" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1605792172579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605686121127" />
-    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1605686121127">
+    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605792172579" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1605792172579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605686121127" />
-    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1605686121127">
+    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605792172579" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1605792172579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605686121127" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605792172579" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1604567875768">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
